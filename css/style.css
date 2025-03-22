@@ -1,6 +1,7 @@
 html, body{
     margin: 0;
     padding: 0;
+    background-color:#ffffff;
   }
 
 .header-show {
@@ -52,7 +53,7 @@ html, body{
 #itemid{
   display: box;
   margin-bottom: 2rem;
-  color:#ffffff;
+
 }
 .hrid{
   border-bottom:0.1px solid;
